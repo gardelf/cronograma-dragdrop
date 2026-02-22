@@ -31,3 +31,4 @@ cronograma_v7_5_*.ics
 # OS
 .DS_Store
 Thumbs.db
+config.py
